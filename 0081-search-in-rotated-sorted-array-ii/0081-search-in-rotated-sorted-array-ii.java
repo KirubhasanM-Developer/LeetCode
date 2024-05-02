@@ -1,22 +1,30 @@
 class Solution {
     public boolean search(int[] nums, int target) {
-        Arrays.sort(nums);
-        int s=0,e=nums.length-1;
-        while(s<=e){
-            int mid=s+(e-s)/2;
-            if(nums[mid]==target){
+        int left = 0;
+        int right = nums.length - 1;
+        
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            
+            if (nums[mid] == target) // If found at mid
                 return true;
-            }
-            else if(nums[mid]<target){
-                s=mid+1;
-
-            }
-            else{
-                e=mid-1;
-
+            
+            if (nums[left] == nums[mid] && nums[mid] == nums[right]) { // Handle duplicates
+                left++;
+                right--;
+            } else if (nums[left] <= nums[mid]) { // Left half is sorted
+                if (nums[left] <= target && target < nums[mid]) // Target is in the left half
+                    right = mid - 1;
+                else // Target is in the right half
+                    left = mid + 1;
+            } else { // Right half is sorted
+                if (nums[mid] < target && target <= nums[right]) // Target is in the right half
+                    left = mid + 1;
+                else // Target is in the left half
+                    right = mid - 1;
             }
         }
-        return false;
         
+        return false; // If not found
     }
 }
