@@ -1,17 +1,15 @@
 class Solution {
     public boolean judgeSquareSum(int c) {
-        if(c<=2){
-            return true;
-        }
-        int e=(int)Math.sqrt(c);
+       
+        long e=(long)Math.sqrt(c);
        
         int s=0;
      
         while(s<=e){
-            if((Math.pow(s,2)+Math.pow(e,2))==c){
+            if((s*s)+(e*e)==c){
                 return true;
             }
-            else if((Math.pow(s,2)+Math.pow(e,2))<c){
+            else if((s*s)+(e*e)<c){
                 s++;
             }else{
                 e--;
