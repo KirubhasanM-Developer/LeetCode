@@ -5,11 +5,10 @@ class Solution {
         String ans=Integer.toString(n);
         ans=ans+Integer.toString(m);
         ans=ans+Integer.toString(l);
-        if(ans.length()>9){
+        if(ans.length()!=9){
             return false;
         }
-       
-        boolean b=false;
+          boolean b=false;
         for(int i=1;i<=9;i++){
             for(int j=0;j<ans.length();j++){
                 int y=ans.charAt(j)-'0';
@@ -27,7 +26,9 @@ class Solution {
                 return false;
             }
         }
-        return b;
+ 
+       
+             return b;
         
     }
 }
