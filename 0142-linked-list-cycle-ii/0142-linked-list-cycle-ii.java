@@ -12,16 +12,13 @@
 public class Solution {
     public ListNode detectCycle(ListNode head) {
         List<ListNode>li=new ArrayList<>();
-        while(head!=null){
-            if(!li.contains(head)){
-            li.add(head);}
-            else{
-                return  head;
-            }
-            head=head.next;
+        while(head!=null&&!li.contains(head)){
+            
+            li.add(head);
+           head=head.next;
 
         }
-        return null;
+        return head;
         
     }
 }
