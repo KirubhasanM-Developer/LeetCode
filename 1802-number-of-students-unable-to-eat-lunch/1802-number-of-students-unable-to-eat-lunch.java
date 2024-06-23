@@ -8,11 +8,11 @@ class Solution {
         }for(int i=sandwiches.length-1;i>=0;i--){
             st.add(sandwiches[i]);
         }
-        int j=0;
+        
         while(!st.isEmpty()&&!q.isEmpty()){
       if(q.contains(st.peek())){
             if(st.peek()==q.peek()){
-                 j--;
+                
                 st.pop();
                 q.remove();
 
@@ -22,7 +22,7 @@ class Solution {
                 int k=q.peek();
                 q.remove();
                 q.add(k);
-                j++;
+                
 
             }}else{
                 break;
