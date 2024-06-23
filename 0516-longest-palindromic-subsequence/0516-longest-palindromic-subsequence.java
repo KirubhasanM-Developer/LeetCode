@@ -31,12 +31,13 @@ class Solution {
         // If characters match, add 2 to the length and move inward
         if (s.charAt(i) == s.charAt(e)) {
             dp[i][e] = 2 + solve(s, dp, i + 1, e - 1);
+            return dp[i][e];
         } 
-           else{ // Otherwise, take the maximum of either ignoring the left or right character
+           // Otherwise, take the maximum of either ignoring the left or right character
             int left = solve(s, dp, i + 1, e);
             int right = solve(s, dp, i, e - 1);
             dp[i][e] = Math.max(left, right);
-           }
+           
 
         return dp[i][e];
     }
