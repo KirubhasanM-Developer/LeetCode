@@ -27,7 +27,7 @@ class Solution {
     public static void traversal(TreeNode root,ArrayList<Integer>li){
         
         if(root==null){
-            li.add(root.val);
+         
             return;
         }
 
@@ -36,12 +36,12 @@ class Solution {
             li.add(root.val);
         }
         
-        if (root.left != null) {
+      
             traversal(root.left, li);
-        }
+      
         
-        if (root.right != null) {
+       
             traversal(root.right, li);
-        }
+      
     }
 }
