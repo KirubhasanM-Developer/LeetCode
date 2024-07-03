@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0001-two-sum) |
 | [0463-island-perimeter](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0733-flood-fill) |
+| [1325-path-with-maximum-probability](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2103-find-all-groups-of-farmland](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 ## Hash Table
 |  |
@@ -63,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0067-add-binary) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
