@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0067-add-binary) |
 ## String
 |  |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
