@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0463-island-perimeter](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0733-flood-fill) |
 | [1325-path-with-maximum-probability](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0118-pascals-triangle) |
 ## Combinatorics
 |  |
 | ------- |
