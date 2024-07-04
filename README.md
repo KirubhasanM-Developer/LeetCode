@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0067-add-binary) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [2816-lexicographically-smallest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [2816-lexicographically-smallest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
