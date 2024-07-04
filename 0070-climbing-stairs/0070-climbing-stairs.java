@@ -4,17 +4,21 @@ class Solution {
             return 1;
         }
 
+        if(n<4){
+            return n;
+        }
+
         // Initialize an array to hold the number of ways to reach each step
-        int[] dp = new int[n + 1];
+        int[] dp = new int[n ];
         dp[0] = 1; // There's 1 way to stay at the ground level (doing nothing)
-        dp[1] = 1; // There's 1 way to reach the first step
+        dp[1] = 2; // There's 1 way to reach the first step
 
         // Fill in the dp array using the recurrence relation
-        for (int i = 2; i <= n; i++) {
+        for (int i = 2; i < n; i++) {
             dp[i] = dp[i - 1] + dp[i - 2];
         }
 
         // The number of ways to reach the nth step
-        return dp[n];
+        return dp[n-1];
     }
 }
