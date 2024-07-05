@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0733-flood-fill) |
 | [1325-path-with-maximum-probability](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2103-find-all-groups-of-farmland](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0067-add-binary) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Bit Manipulation
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Combinatorics
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Linked List
 |  |
