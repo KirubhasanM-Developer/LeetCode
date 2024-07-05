@@ -57,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0070-climbing-stairs) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0067-add-binary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
 |  |
 | ------- |
