@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0518-coin-change-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Linked List
 |  |
 | ------- |
