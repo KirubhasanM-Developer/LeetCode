@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2103-find-all-groups-of-farmland](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0067-add-binary) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
 | ------- |
@@ -142,4 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
