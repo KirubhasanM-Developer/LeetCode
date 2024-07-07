@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2103-find-all-groups-of-farmland](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Hash Table
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Linked List
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
 | ------- |
