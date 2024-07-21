@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0322-coin-change) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0056-merge-intervals) |
 | [2887-sort-vowels-in-a-string](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
