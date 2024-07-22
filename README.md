@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2103-find-all-groups-of-farmland](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0056-merge-intervals) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2887-sort-vowels-in-a-string](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 ## Divide and Conquer
 |  |
 | ------- |
