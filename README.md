@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0500-keyboard-row) |
+| [0778-reorganize-string](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0778-reorganize-string) |
 | [0822-unique-morse-code-words](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0837-most-common-word) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0067-add-binary) |
 | [0409-longest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0500-keyboard-row) |
+| [0778-reorganize-string](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0778-reorganize-string) |
 | [0822-unique-morse-code-words](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0837-most-common-word) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0778-reorganize-string) |
 | [1325-path-with-maximum-probability](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0409-longest-palindrome) |
+| [0778-reorganize-string](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0778-reorganize-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0056-merge-intervals) |
+| [0778-reorganize-string](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0778-reorganize-string) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2887-sort-vowels-in-a-string](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -168,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0837-most-common-word) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
