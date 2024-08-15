@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1325-path-with-maximum-probability](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1835-decode-xored-permutation](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1835-decode-xored-permutation) |
 | [2103-find-all-groups-of-farmland](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/0067-add-binary) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1835-decode-xored-permutation](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/1835-decode-xored-permutation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KirubhasanMurugesan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
